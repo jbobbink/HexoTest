@@ -1,6 +1,7 @@
 docs:
   getting_started:
     overview: index.html
+    noview: noview.html
     setup: setup.html
     configuration: configuration.html
     commands: commands.html
