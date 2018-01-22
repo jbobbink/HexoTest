@@ -1,16 +1,16 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
+title: ToscaneTips
+subtitle: "An overview of all relevant information about visiting Toscane"
+description: "This is the best source of information about Toscane ever!"
 author: Hexo
 language: en
 timezone: UTC
 
-url: https://hexo.io
+url: https://www.notprovided.eu
 root: /
-permalink: news/:year/:month/:day/:title/
+permalink: news/:title/
 archive_dir: news
 code_dir: downloads/code
-new_post_name: :year-:month-:day-:title.md # File name of new posts
+new_post_name: :title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
@@ -36,5 +36,5 @@ algolia:
   zh-cn:
     api_key: cdea7d4e47d84f6145b77e7f68689f35
     index_name: hexo_zh-cn
-twitter: hexojs
-github: hexojs/hexo
+twitter: jbobbink
+github: jbobbink
